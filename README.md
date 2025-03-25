@@ -8,7 +8,6 @@ I'm a passionate software developer based in Spain, dedicated to creating useful
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me:
 
-- Discord: [Join my server](https://discord.gg/AZGpxPAT64)
+- Youtube: [@withmroo](https://www.youtube.com/@withmroo)
+- Twitter (X): [@withmroo](https://x.com/withmroo)
 - LinkedIn: [Marcos Corrochano Arroyo](https://www.linkedin.com/in/marcos-corrochano-arroyo-7103b2291/)
-
-[![An image of @moulmark's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moulmark)](https://holopin.io/@moulmark)
