@@ -8,6 +8,7 @@ I'm a passionate software developer based in Spain, dedicated to creating useful
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me:
 
-- Youtube: [@withmroo](https://www.youtube.com/@withmroo)
-- Twitter (X): [@withmroo](https://x.com/withmroo)
+- Youtube: [@drixswe](https://www.youtube.com/@drixswe)
+- Twitter (X): [@drixswe](https://x.com/withmroo)
+- Bluesky: [@drix.one](https://bsky.app/profile/drix.one)
 - LinkedIn: [Marcos Corrochano Arroyo](https://www.linkedin.com/in/marcos-corrochano-arroyo-7103b2291/)
